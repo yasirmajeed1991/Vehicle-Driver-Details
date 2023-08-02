@@ -1,0 +1,18 @@
+.ll-font-of-body{
+  font-family: Raleway, sans-serif;
+  font-size: 16px;
+  font-size: 1.14286rem;
+  color: black;
+  padding: 5px 20px;
+  border-radius: 3px;
+ }
+.ll-submit-error{
+  font-family: Raleway, sans-serif;
+  color: red;
+  }
+  .ll-submit-success{
+  font-family: Raleway, sans-serif;
+  color: #00D231;
+  font-size: 32px;
+  font-weight: 500;
+  }
